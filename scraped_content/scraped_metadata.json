@@ -1,0 +1,85 @@
+{
+    "cloudrift": {
+        "provider_name": "cloudrift",
+        "url": "https://www.cloudrift.ai/inference",
+        "domain": "www.cloudrift.ai",
+        "scraped_at": "2026-10-31T13:05:51.412511",
+        "formats": [
+            "markdown",
+            "html"
+        ],
+        "success": true,
+        "content_files": {
+            "markdown": "cloudrift_markdown.txt",
+            "html": "cloudrift_html.txt"
+        },
+        "title": "Sovereign Inference API for Open Models | CloudRift",
+        "description": "Deploy Llama 4, DeepSeek-V3 and other open models on sovereign infrastructure with full data residency. OpenAI-compatible API, no vendor lock-in."
+    },
+    "deepinfra": {
+        "provider_name": "deepinfra",
+        "url": "https://deepinfra.com/pricing",
+        "domain": "deepinfra.com",
+        "scraped_at": "2026-10-31T13:05:52.742323",
+        "formats": [
+            "markdown",
+            "html"
+        ],
+        "success": true,
+        "content_files": {
+            "markdown": "deepinfra_markdown.txt",
+            "html": "deepinfra_html.txt"
+        },
+        "title": "Simple Pricing | Machine Learning Infrastructure | DeepInfra",
+        "description": "We provide only pay-what-you-use pricing with no long-term contracts or upfront costs for our machine learning models and infrastructure. Learn more!"
+    },
+    "fireworks": {
+        "provider_name": "fireworks",
+        "url": "https://fireworks.ai/pricing#serverless-pricing",
+        "domain": "fireworks.ai",
+        "scraped_at": "2026-10-31T13:05:54.790331",
+        "formats": [
+            "markdown",
+            "html"
+        ],
+        "success": true,
+        "content_files": {
+            "markdown": "fireworks_markdown.txt",
+            "html": "fireworks_html.txt"
+        },
+        "title": "Fireworks - Pricing",
+        "description": "Choose the plan thats right for you."
+    },
+    "groq": {
+        "provider_name": "groq",
+        "url": "https://groq.com/pricing",
+        "domain": "groq.com",
+        "scraped_at": "2026-10-31T13:05:56.119845",
+        "formats": [
+            "markdown",
+            "html"
+        ],
+        "success": true,
+        "content_files": {
+            "markdown": "groq_markdown.txt",
+            "html": "groq_html.txt"
+        },
+        "title": "Groq is the premier neocloud for fast inference",
+        "description": "Groq is the premier neocloud for fast inference. One fully integrated platform for infrastructure, inference, and control. Millions of developers run trillions of tokens on Groq every week."
+    },
+    "cloudrift ai": {
+        "provider_name": "cloudrift ai",
+        "url": "https://www.cloudrift.ai/inference",
+        "domain": "www.cloudrift.ai",
+        "scraped_at": "2026-10-31T12:57:38.815429",
+        "formats": [
+            "markdown"
+        ],
+        "success": true,
+        "content_files": {
+            "markdown": "cloudrift ai_markdown.txt"
+        },
+        "title": "Sovereign Inference API for Open Models | CloudRift",
+        "description": "Deploy Llama 4, DeepSeek-V3 and other open models on sovereign infrastructure with full data residency. OpenAI-compatible API, no vendor lock-in."
+    }
+}

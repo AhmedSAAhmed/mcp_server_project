@@ -1,0 +1,93 @@
+[Skip to main content](https://www.cloudrift.ai/inference#main-content)
+
+# High-Performance LLM   Inference at Low Cost
+
+Serve models like Llama 4 and DeepSeek 3.1 with our high-performance GPU platform. Our Inference APIs make it simple to scale your projects and pay only for what you need.
+
+[Run Inference](https://console.cloudrift.ai/inference) [View Documentation](https://docs.cloudrift.ai/)
+
+![Qwen3.8-27B-FP8 logo](https://storage.googleapis.com/cloudrift-resources/images/logo/qwen.svg)
+
+### Qwen3.8-27B-FP8
+
+$0.15 in \| $2.00 out262.14K Context
+
+Qwen3.8 27B at FP8, deployed across 4x Tesla V100 16GB with 262K context.
+
+[Get API Key](https://console.cloudrift.ai/inference)
+
+![DeepSeek-V4-Flash-0731 logo](https://storage.googleapis.com/cloudrift-resources/images/logo/deepseek.svg)
+
+### DeepSeek-V4-Flash-0731
+
+$0.14 in \| $0.28 out1.05M Context
+
+DeepSeek V4 Flash 0731 served through Emmy on 16x Tesla V100 SXM3 32GB, with reasoning and tool calls. Best for short and medium prompts: long prompts prefill at about 1,500 tokens per second, and recall of exact details drops as they grow.
+
+[Get API Key](https://console.cloudrift.ai/inference)
+
+### Quick Start
+
+TypeScriptPythonCurl
+
+```
+import OpenAI from "openai";
+
+const openai = new OpenAI({
+  baseURL: "https://inference.cloudrift.ai/v1",
+  apiKey: "YOUR_RIFT_API_KEY",
+});
+
+const completion = await openai.chat.completions.create({
+  model: "llama4:maverick",
+  messages: [\
+    {\
+      role: "user",\
+      content: "What is the meaning of life?"\
+    }\
+  ],
+  stream: true,
+});
+
+for await (const chunk of completion) {
+  process.stdout.write(chunk.choices[0]?.delta.content as string);
+}
+```
+
+Models
+
+## All Available Models
+
+Cost-effective access to high-performance models — no queues, no GPUs to reserve. Just straightforward model options you can build on.
+
+![Qwen3.8-27B-FP8 logo](https://storage.googleapis.com/cloudrift-resources/images/logo/qwen.svg)
+
+### Qwen3.8-27B-FP8
+
+$0.15 in \| $2.00 out262.14K Context
+
+Qwen3.8 27B at FP8, deployed across 4x Tesla V100 16GB with 262K context.
+
+[Get API Key](https://console.cloudrift.ai/inference)
+
+![DeepSeek-V4-Flash-0731 logo](https://storage.googleapis.com/cloudrift-resources/images/logo/deepseek.svg)
+
+### DeepSeek-V4-Flash-0731
+
+$0.14 in \| $0.28 out1.05M Context
+
+DeepSeek V4 Flash 0731 served through Emmy on 16x Tesla V100 SXM3 32GB, with reasoning and tool calls. Best for short and medium prompts: long prompts prefill at about 1,500 tokens per second, and recall of exact details drops as they grow.
+
+[Get API Key](https://console.cloudrift.ai/inference)
+
+Get in touch
+
+## Ready to get started?
+
+Get in touch with our team to discuss your requirements and find the right solution for your infrastructure.
+
+[Contact Us](https://www.cloudrift.ai/contact)
+
+We use cookies to measure site traffic and advertising performance. You can decline — the site works the same either way. [Privacy Policy](https://www.cloudrift.ai/privacy)
+
+DeclineAccept

@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.pytest_cache/
+*.db
+*.db-shm
+*.db-wal
+*.zip

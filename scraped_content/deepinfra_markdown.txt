@@ -1,0 +1,533 @@
+We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic…
+
+AcceptReject
+
+DeepInfra raises $107M Series B to scale the inference cloud — [read the announcement](https://deepinfra.com/series-b)
+
+[Models](https://deepinfra.com/models)
+
+[Automatic Speech Recognition](https://deepinfra.com/models/automatic-speech-recognition) [Other](https://deepinfra.com/models/custom) [Decision](https://deepinfra.com/models/decision) [Embeddings](https://deepinfra.com/models/embeddings) [Reranker](https://deepinfra.com/models/reranker) [Text Generation](https://deepinfra.com/models/text-generation) [Text To Image](https://deepinfra.com/models/text-to-image) [Text To Music](https://deepinfra.com/models/text-to-music) [Text To Speech](https://deepinfra.com/models/text-to-speech) [Text To Video](https://deepinfra.com/models/text-to-video) [World Model](https://deepinfra.com/models/world-model) [Zero Shot Image Classification](https://deepinfra.com/models/zero-shot-image-classification)
+
+[Docs](https://docs.deepinfra.com/)
+
+[Pricing](https://deepinfra.com/pricing)
+
+[GPUs](https://deepinfra.com/gpu-instances)
+
+[Chat](https://deepinfra.com/chat)
+
+[DeepStart](https://deepinfra.com/deepstart)
+
+[DeepCluster](https://deepinfra.com/deepcluster)
+
+[Blog](https://deepinfra.com/blog)
+
+Feedback
+
+[Contact Sales](https://deepinfra.com/contact-sales)
+
+[Log In](https://deepinfra.com/login?from=%2Fdash)
+
+# Simple Pricing, Deep Infrastructure
+
+We have different pricing models depending on the model used. Some of our langauge models offer per token pricing. Most other models are billed for inference execution time. With this pricing model, you only pay for what you use. There are no long-term contracts or upfront costs, and you can easily scale up and down as your business needs change.
+
+[Contact Sales](https://deepinfra.com/contact-sales)
+
+#### [Token Pricing](https://deepinfra.com/pricing\#token-pricing)
+
+##### $0.2156
+
+/ 1M input tokens
+
+##### $0.0069
+
+/ 1M cached input tokens
+
+##### $0.6468
+
+/ 1M output tokens
+
+##### deepseek-ai/DeepSeek-V4-Flash-Vision-Exp
+
+51% off
+
+[DeepSeek](https://deepinfra.com/pricing#deepseek)
+
+DeepSeek's models are a suite of advanced AI systems that prioritize efficiency, scalability, and real-world applicability.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [DeepSeek-V4-Flash-0731](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash-0731) | 1024k | $0.06 / $0.015 cached | $0.18 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash-0731) |
+| [DeepSeek-V4-Pro](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Pro) | 1024k | $1.30 / $0.10 cached | $2.60 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Pro) |
+| [DeepSeek-V4-Flash](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash) | 1024k | $0.09 / $0.018 cached | $0.18 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash) |
+| [DeepSeek-V3.2](https://deepinfra.com/deepseek-ai/DeepSeek-V3.2) | 160k | $0.26 / $0.13 cached | $0.38 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V3.2) |
+| [DeepSeek-V3.1](https://deepinfra.com/deepseek-ai/DeepSeek-V3.1) | 160k | $0.25 / $0.13 cached | $0.95 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V3.1) |
+| [DeepSeek-V3](https://deepinfra.com/deepseek-ai/DeepSeek-V3) | 160k | $0.32 | $0.89 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V3) |
+| [DeepSeek-R1-0528](https://deepinfra.com/deepseek-ai/DeepSeek-R1-0528) | 160k | $0.50 / $0.35 cached | $2.15 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-R1-0528) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [DeepSeek-V4-Flash-0731](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash-0731) | 1024k | $0.06 / $0.015 cached | $0.18 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash-0731) |
+| [DeepSeek-V4-Pro](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Pro) | 1024k | $1.30 / $0.10 cached | $2.60 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Pro) |
+| [DeepSeek-V4-Flash](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash) | 1024k | $0.09 / $0.018 cached | $0.18 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V4-Flash) |
+| [DeepSeek-V3.2](https://deepinfra.com/deepseek-ai/DeepSeek-V3.2) | 160k | $0.26 / $0.13 cached | $0.38 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V3.2) |
+| [DeepSeek-V3.1](https://deepinfra.com/deepseek-ai/DeepSeek-V3.1) | 160k | $0.25 / $0.13 cached | $0.95 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V3.1) |
+| [DeepSeek-V3](https://deepinfra.com/deepseek-ai/DeepSeek-V3) | 160k | $0.32 | $0.89 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-V3) |
+| [DeepSeek-R1-0528](https://deepinfra.com/deepseek-ai/DeepSeek-R1-0528) | 160k | $0.50 / $0.35 cached | $2.15 | [View more](https://deepinfra.com/deepseek-ai/DeepSeek-R1-0528) |
+
+* * *
+
+[Kimi](https://deepinfra.com/pricing#kimi)
+
+Kimi is Moonshot AI's family of multimodal language models optimized for long-context understanding, agentic workflows, and high-throughput inference.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Kimi-K3](https://deepinfra.com/moonshotai/Kimi-K3) | 1024k | $2.85 / $0.285 cached | $14.25 | [View more](https://deepinfra.com/moonshotai/Kimi-K3) |
+| [Kimi-K2.6](https://deepinfra.com/moonshotai/Kimi-K2.6) | 256k | $0.75 / $0.15 cached | $3.50 | [View more](https://deepinfra.com/moonshotai/Kimi-K2.6) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Kimi-K3](https://deepinfra.com/moonshotai/Kimi-K3) | 1024k | $2.85 / $0.285 cached | $14.25 | [View more](https://deepinfra.com/moonshotai/Kimi-K3) |
+| [Kimi-K2.6](https://deepinfra.com/moonshotai/Kimi-K2.6) | 256k | $0.75 / $0.15 cached | $3.50 | [View more](https://deepinfra.com/moonshotai/Kimi-K2.6) |
+
+* * *
+
+[Qwen](https://deepinfra.com/pricing#qwen)
+
+Qwen series offers a comprehensive suite of dense and mixture-of-experts models.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Qwen3.6-27B](https://deepinfra.com/Qwen/Qwen3.6-27B) | 256k | $0.32 | $3.20 | [View more](https://deepinfra.com/Qwen/Qwen3.6-27B) |
+| [Qwen3.6-35B-A3B](https://deepinfra.com/Qwen/Qwen3.6-35B-A3B) | 256k | $0.10 / $0.10 cached | $0.95 | [View more](https://deepinfra.com/Qwen/Qwen3.6-35B-A3B) |
+| [Qwen3.5-397B-A17B](https://deepinfra.com/Qwen/Qwen3.5-397B-A17B) | 256k | $0.45 / $0.22 cached | $3.00 | [View more](https://deepinfra.com/Qwen/Qwen3.5-397B-A17B) |
+| [Qwen3.5-35B-A3B](https://deepinfra.com/Qwen/Qwen3.5-35B-A3B) | 256k | $0.14 / $0.05 cached | $1.00 | [View more](https://deepinfra.com/Qwen/Qwen3.5-35B-A3B) |
+| [Qwen3.5-27B](https://deepinfra.com/Qwen/Qwen3.5-27B) | 256k | $0.26 | $2.60 | [View more](https://deepinfra.com/Qwen/Qwen3.5-27B) |
+| [Qwen3.5-9B](https://deepinfra.com/Qwen/Qwen3.5-9B) | 256k | $0.10 | $0.15 | [View more](https://deepinfra.com/Qwen/Qwen3.5-9B) |
+| [Qwen3.8-Max](https://deepinfra.com/Qwen/Qwen3.8-Max) | 250k | $1.65 / $0.206 cached | $4.951 | [View more](https://deepinfra.com/Qwen/Qwen3.8-Max) |
+| [Qwen3.7-Max](https://deepinfra.com/Qwen/Qwen3.7-Max) | 250k | $2.50 / $0.50 cached | $7.50 | [View more](https://deepinfra.com/Qwen/Qwen3.7-Max) |
+| [Qwen3-VL-30B-A3B-Instruct](https://deepinfra.com/Qwen/Qwen3-VL-30B-A3B-Instruct) | 256k | $0.15 | $0.60 | [View more](https://deepinfra.com/Qwen/Qwen3-VL-30B-A3B-Instruct) |
+| [Qwen3-VL-235B-A22B-Instruct](https://deepinfra.com/Qwen/Qwen3-VL-235B-A22B-Instruct) | 256k | $0.20 / $0.11 cached | $0.88 | [View more](https://deepinfra.com/Qwen/Qwen3-VL-235B-A22B-Instruct) |
+| [Qwen3-Next-80B-A3B-Instruct](https://deepinfra.com/Qwen/Qwen3-Next-80B-A3B-Instruct) | 256k | $0.09 | $1.10 | [View more](https://deepinfra.com/Qwen/Qwen3-Next-80B-A3B-Instruct) |
+| [Qwen3-Coder-480B-A35B-Instruct-Turbo](https://deepinfra.com/Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo) | 256k | $0.30 / $0.10 cached | $1.00 | [View more](https://deepinfra.com/Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo) |
+| [Qwen3-235B-A22B-Instruct-2507](https://deepinfra.com/Qwen/Qwen3-235B-A22B-Instruct-2507) | 256k | $0.09 | $0.55 | [View more](https://deepinfra.com/Qwen/Qwen3-235B-A22B-Instruct-2507) |
+| [Qwen3-32B](https://deepinfra.com/Qwen/Qwen3-32B) | 40k | $0.08 | $0.28 | [View more](https://deepinfra.com/Qwen/Qwen3-32B) |
+| [Qwen3-30B-A3B](https://deepinfra.com/Qwen/Qwen3-30B-A3B) | 40k | $0.12 | $0.50 | [View more](https://deepinfra.com/Qwen/Qwen3-30B-A3B) |
+| [Qwen3-14B](https://deepinfra.com/Qwen/Qwen3-14B) | 40k | $0.12 | $0.24 | [View more](https://deepinfra.com/Qwen/Qwen3-14B) |
+| [Qwen2.5-72B-Instruct](https://deepinfra.com/Qwen/Qwen2.5-72B-Instruct) | 32k | $0.36 | $0.40 | [View more](https://deepinfra.com/Qwen/Qwen2.5-72B-Instruct) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Qwen3.6-27B](https://deepinfra.com/Qwen/Qwen3.6-27B) | 256k | $0.32 | $3.20 | [View more](https://deepinfra.com/Qwen/Qwen3.6-27B) |
+| [Qwen3.6-35B-A3B](https://deepinfra.com/Qwen/Qwen3.6-35B-A3B) | 256k | $0.10 / $0.10 cached | $0.95 | [View more](https://deepinfra.com/Qwen/Qwen3.6-35B-A3B) |
+| [Qwen3.5-397B-A17B](https://deepinfra.com/Qwen/Qwen3.5-397B-A17B) | 256k | $0.45 / $0.22 cached | $3.00 | [View more](https://deepinfra.com/Qwen/Qwen3.5-397B-A17B) |
+| [Qwen3.5-35B-A3B](https://deepinfra.com/Qwen/Qwen3.5-35B-A3B) | 256k | $0.14 / $0.05 cached | $1.00 | [View more](https://deepinfra.com/Qwen/Qwen3.5-35B-A3B) |
+| [Qwen3.5-27B](https://deepinfra.com/Qwen/Qwen3.5-27B) | 256k | $0.26 | $2.60 | [View more](https://deepinfra.com/Qwen/Qwen3.5-27B) |
+| [Qwen3.5-9B](https://deepinfra.com/Qwen/Qwen3.5-9B) | 256k | $0.10 | $0.15 | [View more](https://deepinfra.com/Qwen/Qwen3.5-9B) |
+| [Qwen3.8-Max](https://deepinfra.com/Qwen/Qwen3.8-Max) | 250k | $1.65 / $0.206 cached | $4.951 | [View more](https://deepinfra.com/Qwen/Qwen3.8-Max) |
+| [Qwen3.7-Max](https://deepinfra.com/Qwen/Qwen3.7-Max) | 250k | $2.50 / $0.50 cached | $7.50 | [View more](https://deepinfra.com/Qwen/Qwen3.7-Max) |
+| [Qwen3-VL-30B-A3B-Instruct](https://deepinfra.com/Qwen/Qwen3-VL-30B-A3B-Instruct) | 256k | $0.15 | $0.60 | [View more](https://deepinfra.com/Qwen/Qwen3-VL-30B-A3B-Instruct) |
+| [Qwen3-VL-235B-A22B-Instruct](https://deepinfra.com/Qwen/Qwen3-VL-235B-A22B-Instruct) | 256k | $0.20 / $0.11 cached | $0.88 | [View more](https://deepinfra.com/Qwen/Qwen3-VL-235B-A22B-Instruct) |
+| [Qwen3-Next-80B-A3B-Instruct](https://deepinfra.com/Qwen/Qwen3-Next-80B-A3B-Instruct) | 256k | $0.09 | $1.10 | [View more](https://deepinfra.com/Qwen/Qwen3-Next-80B-A3B-Instruct) |
+| [Qwen3-Coder-480B-A35B-Instruct-Turbo](https://deepinfra.com/Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo) | 256k | $0.30 / $0.10 cached | $1.00 | [View more](https://deepinfra.com/Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo) |
+| [Qwen3-235B-A22B-Instruct-2507](https://deepinfra.com/Qwen/Qwen3-235B-A22B-Instruct-2507) | 256k | $0.09 | $0.55 | [View more](https://deepinfra.com/Qwen/Qwen3-235B-A22B-Instruct-2507) |
+| [Qwen3-32B](https://deepinfra.com/Qwen/Qwen3-32B) | 40k | $0.08 | $0.28 | [View more](https://deepinfra.com/Qwen/Qwen3-32B) |
+| [Qwen3-30B-A3B](https://deepinfra.com/Qwen/Qwen3-30B-A3B) | 40k | $0.12 | $0.50 | [View more](https://deepinfra.com/Qwen/Qwen3-30B-A3B) |
+| [Qwen3-14B](https://deepinfra.com/Qwen/Qwen3-14B) | 40k | $0.12 | $0.24 | [View more](https://deepinfra.com/Qwen/Qwen3-14B) |
+| [Qwen2.5-72B-Instruct](https://deepinfra.com/Qwen/Qwen2.5-72B-Instruct) | 32k | $0.36 | $0.40 | [View more](https://deepinfra.com/Qwen/Qwen2.5-72B-Instruct) |
+
+* * *
+
+[Llama 4](https://deepinfra.com/pricing#llama-4)
+
+The Llama 4 collection of models are natively multimodal AI models that enable text and multimodal experiences.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Llama-4-Scout-17B-16E](https://deepinfra.com/meta-llama/Llama-4-Scout-17B-16E-Instruct) | 320k | $0.10 | $0.30 | [View more](https://deepinfra.com/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
+| [Llama-Guard-4-12B](https://deepinfra.com/meta-llama/Llama-Guard-4-12B) | 160k | $0.18 | $0.18 | [View more](https://deepinfra.com/meta-llama/Llama-Guard-4-12B) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Llama-4-Scout-17B-16E](https://deepinfra.com/meta-llama/Llama-4-Scout-17B-16E-Instruct) | 320k | $0.10 | $0.30 | [View more](https://deepinfra.com/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
+| [Llama-Guard-4-12B](https://deepinfra.com/meta-llama/Llama-Guard-4-12B) | 160k | $0.18 | $0.18 | [View more](https://deepinfra.com/meta-llama/Llama-Guard-4-12B) |
+
+* * *
+
+[Llama 3](https://deepinfra.com/pricing#llama-3)
+
+Meta Llama 3 are a collection of pretrained and instruction tuned generative text models in 8B, 70B and 405B sizes.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Llama-3.3-70B-Instruct-Turbo](https://deepinfra.com/meta-llama/Llama-3.3-70B-Instruct-Turbo) | 128k | $0.10 | $0.32 | [View more](https://deepinfra.com/meta-llama/Llama-3.3-70B-Instruct-Turbo) |
+| [Meta-Llama-3.1-8B-Instruct-Turbo](https://deepinfra.com/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo) | 128k | $0.02 | $0.04 | [View more](https://deepinfra.com/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Llama-3.3-70B-Instruct-Turbo](https://deepinfra.com/meta-llama/Llama-3.3-70B-Instruct-Turbo) | 128k | $0.10 | $0.32 | [View more](https://deepinfra.com/meta-llama/Llama-3.3-70B-Instruct-Turbo) |
+| [Meta-Llama-3.1-8B-Instruct-Turbo](https://deepinfra.com/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo) | 128k | $0.02 | $0.04 | [View more](https://deepinfra.com/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo) |
+
+* * *
+
+[Gemini](https://deepinfra.com/pricing#gemini)
+
+Developed by Google DeepMind, Gemini is a family of state-of-the-art thinking models with native multimodal capabilities
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemini-3.5-flash](https://deepinfra.com/google/gemini-3.5-flash) | 976k | $1.50 | $9.00 | [View more](https://deepinfra.com/google/gemini-3.5-flash) |
+| [gemini-3.1-flash-lite](https://deepinfra.com/google/gemini-3.1-flash-lite) | 976k | $0.25 | $1.50 | [View more](https://deepinfra.com/google/gemini-3.1-flash-lite) |
+| [gemini-3.1-pro](https://deepinfra.com/google/gemini-3.1-pro) | 976k | $2.00 | $12.00 | [View more](https://deepinfra.com/google/gemini-3.1-pro) |
+| [gemini-2.5-pro](https://deepinfra.com/google/gemini-2.5-pro) | 976k | $1.25 | $10.00 | [View more](https://deepinfra.com/google/gemini-2.5-pro) |
+| [gemini-2.5-flash](https://deepinfra.com/google/gemini-2.5-flash) | 976k | $0.30 | $2.50 | [View more](https://deepinfra.com/google/gemini-2.5-flash) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemini-3.5-flash](https://deepinfra.com/google/gemini-3.5-flash) | 976k | $1.50 | $9.00 | [View more](https://deepinfra.com/google/gemini-3.5-flash) |
+| [gemini-3.1-flash-lite](https://deepinfra.com/google/gemini-3.1-flash-lite) | 976k | $0.25 | $1.50 | [View more](https://deepinfra.com/google/gemini-3.1-flash-lite) |
+| [gemini-3.1-pro](https://deepinfra.com/google/gemini-3.1-pro) | 976k | $2.00 | $12.00 | [View more](https://deepinfra.com/google/gemini-3.1-pro) |
+| [gemini-2.5-pro](https://deepinfra.com/google/gemini-2.5-pro) | 976k | $1.25 | $10.00 | [View more](https://deepinfra.com/google/gemini-2.5-pro) |
+| [gemini-2.5-flash](https://deepinfra.com/google/gemini-2.5-flash) | 976k | $0.30 | $2.50 | [View more](https://deepinfra.com/google/gemini-2.5-flash) |
+
+* * *
+
+[Gemma](https://deepinfra.com/pricing#gemma)
+
+Gemma is a family of lightweight, state-of-the-art open models from Google.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemma-4-31B-it-Ultra](https://deepinfra.com/google/gemma-4-31B-it-Ultra) | 128k | $0.27 | $0.76 | [View more](https://deepinfra.com/google/gemma-4-31B-it-Ultra) |
+| [gemma-4-31B-it-turbo](https://deepinfra.com/google/gemma-4-31B-it-turbo) | 256k | $0.09 / $0.05 cached | $0.34 | [View more](https://deepinfra.com/google/gemma-4-31B-it-turbo) |
+| [gemma-4-31B-it](https://deepinfra.com/google/gemma-4-31B-it) | 256k | $0.20 | $0.40 | [View more](https://deepinfra.com/google/gemma-4-31B-it) |
+| [gemma-4-26B-A4B-it](https://deepinfra.com/google/gemma-4-26B-A4B-it) | 256k | $0.07 | $0.34 | [View more](https://deepinfra.com/google/gemma-4-26B-A4B-it) |
+| [gemma-3-27b-it](https://deepinfra.com/google/gemma-3-27b-it) | 128k | $0.08 | $0.16 | [View more](https://deepinfra.com/google/gemma-3-27b-it) |
+| [gemma-3-12b-it](https://deepinfra.com/google/gemma-3-12b-it) | 128k | $0.05 | $0.15 | [View more](https://deepinfra.com/google/gemma-3-12b-it) |
+| [gemma-3-4b-it](https://deepinfra.com/google/gemma-3-4b-it) | 128k | $0.05 | $0.10 | [View more](https://deepinfra.com/google/gemma-3-4b-it) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemma-4-31B-it-Ultra](https://deepinfra.com/google/gemma-4-31B-it-Ultra) | 128k | $0.27 | $0.76 | [View more](https://deepinfra.com/google/gemma-4-31B-it-Ultra) |
+| [gemma-4-31B-it-turbo](https://deepinfra.com/google/gemma-4-31B-it-turbo) | 256k | $0.09 / $0.05 cached | $0.34 | [View more](https://deepinfra.com/google/gemma-4-31B-it-turbo) |
+| [gemma-4-31B-it](https://deepinfra.com/google/gemma-4-31B-it) | 256k | $0.20 | $0.40 | [View more](https://deepinfra.com/google/gemma-4-31B-it) |
+| [gemma-4-26B-A4B-it](https://deepinfra.com/google/gemma-4-26B-A4B-it) | 256k | $0.07 | $0.34 | [View more](https://deepinfra.com/google/gemma-4-26B-A4B-it) |
+| [gemma-3-27b-it](https://deepinfra.com/google/gemma-3-27b-it) | 128k | $0.08 | $0.16 | [View more](https://deepinfra.com/google/gemma-3-27b-it) |
+| [gemma-3-12b-it](https://deepinfra.com/google/gemma-3-12b-it) | 128k | $0.05 | $0.15 | [View more](https://deepinfra.com/google/gemma-3-12b-it) |
+| [gemma-3-4b-it](https://deepinfra.com/google/gemma-3-4b-it) | 128k | $0.05 | $0.10 | [View more](https://deepinfra.com/google/gemma-3-4b-it) |
+
+* * *
+
+[Nemotron](https://deepinfra.com/pricing#nemotron)
+
+\[NVIDIA Nemotron™\](https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/) is a
+family of open models, datasets, and training recipes engineered for high performance, efficiency, and customization.
+Nemotron models support synthetic data workflows and supervised fine-tuning—and are optimized for real-time
+inference, reasoning agents, and production AI systems.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [NVIDIA-Nemotron-3.5-Lightning](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Lightning) | 256k | $0.06 / $0.03 cached | $0.16 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Lightning) |
+| [NVIDIA-Nemotron-3.5-Super-VL](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Super-VL) | 256k | $0.15 / $0.02 cached | $0.50 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Super-VL) |
+| [Nemotron-Content-Safety-3.5](https://deepinfra.com/nvidia/Nemotron-Content-Safety-3.5) | 128k | $0.20 | $0.20 | [View more](https://deepinfra.com/nvidia/Nemotron-Content-Safety-3.5) |
+| [NVIDIA-Nemotron-3-Ultra-550B-A55B](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B) | 256k | $0.50 / $0.10 cached | $2.20 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B) |
+| [NVIDIA-Nemotron-3-Super-120B-A12B](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B) | 256k | $0.085 | $0.40 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [NVIDIA-Nemotron-3.5-Lightning](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Lightning) | 256k | $0.06 / $0.03 cached | $0.16 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Lightning) |
+| [NVIDIA-Nemotron-3.5-Super-VL](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Super-VL) | 256k | $0.15 / $0.02 cached | $0.50 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Super-VL) |
+| [Nemotron-Content-Safety-3.5](https://deepinfra.com/nvidia/Nemotron-Content-Safety-3.5) | 128k | $0.20 | $0.20 | [View more](https://deepinfra.com/nvidia/Nemotron-Content-Safety-3.5) |
+| [NVIDIA-Nemotron-3-Ultra-550B-A55B](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B) | 256k | $0.50 / $0.10 cached | $2.20 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B) |
+| [NVIDIA-Nemotron-3-Super-120B-A12B](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B) | 256k | $0.085 | $0.40 | [View more](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B) |
+
+* * *
+
+[Claude](https://deepinfra.com/pricing#claude)
+
+Developed by Anthropic, Claude is a family of highly performant, trustworthy AI models built for complex reasoning, advanced coding, and nuanced language understanding
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [claude-opus-5](https://deepinfra.com/anthropic/claude-opus-5) | 976k | $5.00 | $25.00 | [View more](https://deepinfra.com/anthropic/claude-opus-5) |
+| [claude-fable-5](https://deepinfra.com/anthropic/claude-fable-5) | 976k | $10.00 | $50.00 | [View more](https://deepinfra.com/anthropic/claude-fable-5) |
+| [claude-sonnet-5](https://deepinfra.com/anthropic/claude-sonnet-5) | 976k | $3.00 | $15.00 | [View more](https://deepinfra.com/anthropic/claude-sonnet-5) |
+| [claude-haiku-4-5](https://deepinfra.com/anthropic/claude-haiku-4-5) | 195k | $1.00 | $5.00 | [View more](https://deepinfra.com/anthropic/claude-haiku-4-5) |
+| [claude-sonnet-4-6](https://deepinfra.com/anthropic/claude-sonnet-4-6) | 976k | $3.00 | $15.00 | [View more](https://deepinfra.com/anthropic/claude-sonnet-4-6) |
+| [claude-opus-4-7](https://deepinfra.com/anthropic/claude-opus-4-7) | 976k | $5.00 | $25.00 | [View more](https://deepinfra.com/anthropic/claude-opus-4-7) |
+| [claude-opus-4-8](https://deepinfra.com/anthropic/claude-opus-4-8) | 976k | $5.00 | $25.00 | [View more](https://deepinfra.com/anthropic/claude-opus-4-8) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [claude-opus-5](https://deepinfra.com/anthropic/claude-opus-5) | 976k | $5.00 | $25.00 | [View more](https://deepinfra.com/anthropic/claude-opus-5) |
+| [claude-fable-5](https://deepinfra.com/anthropic/claude-fable-5) | 976k | $10.00 | $50.00 | [View more](https://deepinfra.com/anthropic/claude-fable-5) |
+| [claude-sonnet-5](https://deepinfra.com/anthropic/claude-sonnet-5) | 976k | $3.00 | $15.00 | [View more](https://deepinfra.com/anthropic/claude-sonnet-5) |
+| [claude-haiku-4-5](https://deepinfra.com/anthropic/claude-haiku-4-5) | 195k | $1.00 | $5.00 | [View more](https://deepinfra.com/anthropic/claude-haiku-4-5) |
+| [claude-sonnet-4-6](https://deepinfra.com/anthropic/claude-sonnet-4-6) | 976k | $3.00 | $15.00 | [View more](https://deepinfra.com/anthropic/claude-sonnet-4-6) |
+| [claude-opus-4-7](https://deepinfra.com/anthropic/claude-opus-4-7) | 976k | $5.00 | $25.00 | [View more](https://deepinfra.com/anthropic/claude-opus-4-7) |
+| [claude-opus-4-8](https://deepinfra.com/anthropic/claude-opus-4-8) | 976k | $5.00 | $25.00 | [View more](https://deepinfra.com/anthropic/claude-opus-4-8) |
+
+* * *
+
+[Phi](https://deepinfra.com/pricing#phi)
+
+Phi models offer cost-effective, high-performance AI solutions.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [phi-4](https://deepinfra.com/microsoft/phi-4) | 16k | $0.07 | $0.14 | [View more](https://deepinfra.com/microsoft/phi-4) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [phi-4](https://deepinfra.com/microsoft/phi-4) | 16k | $0.07 | $0.14 | [View more](https://deepinfra.com/microsoft/phi-4) |
+
+* * *
+
+[Mistral](https://deepinfra.com/pricing#mistral)
+
+Developed by Mistral AI, a leading French research lab, Mistral is a family of open-source AI models built for multilingual excellence, advanced reasoning, and cost-effective performance
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Mistral-Small-3.2-24B-Instruct-2506](https://deepinfra.com/mistralai/Mistral-Small-3.2-24B-Instruct-2506) | 125k | $0.075 | $0.20 | [View more](https://deepinfra.com/mistralai/Mistral-Small-3.2-24B-Instruct-2506) |
+| [Mistral-Small-24B-Instruct-2501](https://deepinfra.com/mistralai/Mistral-Small-24B-Instruct-2501) | 32k | $0.05 | $0.08 | [View more](https://deepinfra.com/mistralai/Mistral-Small-24B-Instruct-2501) |
+| [Mistral-Nemo-Instruct-2407](https://deepinfra.com/mistralai/Mistral-Nemo-Instruct-2407) | 128k | $0.029 | $0.03 | [View more](https://deepinfra.com/mistralai/Mistral-Nemo-Instruct-2407) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [Mistral-Small-3.2-24B-Instruct-2506](https://deepinfra.com/mistralai/Mistral-Small-3.2-24B-Instruct-2506) | 125k | $0.075 | $0.20 | [View more](https://deepinfra.com/mistralai/Mistral-Small-3.2-24B-Instruct-2506) |
+| [Mistral-Small-24B-Instruct-2501](https://deepinfra.com/mistralai/Mistral-Small-24B-Instruct-2501) | 32k | $0.05 | $0.08 | [View more](https://deepinfra.com/mistralai/Mistral-Small-24B-Instruct-2501) |
+| [Mistral-Nemo-Instruct-2407](https://deepinfra.com/mistralai/Mistral-Nemo-Instruct-2407) | 128k | $0.029 | $0.03 | [View more](https://deepinfra.com/mistralai/Mistral-Nemo-Instruct-2407) |
+
+* * *
+
+[Voxtral](https://deepinfra.com/pricing#voxtral)
+
+Voxtral is a family of audio models with state-of-the-art speech to text capabilities.
+
+| Model | $ per minute of audio input | Actions |
+| --- | --- | --- |
+| [Voxtral-Small-24B-2507](https://deepinfra.com/mistralai/Voxtral-Small-24B-2507) | $0.00300 | [View more](https://deepinfra.com/mistralai/Voxtral-Small-24B-2507) |
+| [Voxtral-Mini-3B-2507](https://deepinfra.com/mistralai/Voxtral-Mini-3B-2507) | $0.00100 | [View more](https://deepinfra.com/mistralai/Voxtral-Mini-3B-2507) |
+
+| Model | $ per minute of audio input | Actions |
+| --- | --- | --- |
+| [Voxtral-Small-24B-2507](https://deepinfra.com/mistralai/Voxtral-Small-24B-2507) | $0.00300 | [View more](https://deepinfra.com/mistralai/Voxtral-Small-24B-2507) |
+| [Voxtral-Mini-3B-2507](https://deepinfra.com/mistralai/Voxtral-Mini-3B-2507) | $0.00100 | [View more](https://deepinfra.com/mistralai/Voxtral-Mini-3B-2507) |
+
+* * *
+
+[Nemotron Speech](https://deepinfra.com/pricing#nemotron-speech)
+
+NVIDIA Nemotron speech models for streaming multilingual transcription and speaker diarization.
+
+| Model | $ per minute of audio input | Actions |
+| --- | --- | --- |
+| [Nemotron-3-Diarization](https://deepinfra.com/nvidia/Nemotron-3-Diarization) | $0.00060 | [View more](https://deepinfra.com/nvidia/Nemotron-3-Diarization) |
+| [Nemotron-3.5-ASR-Streaming-Multilingual-0.6b](https://deepinfra.com/nvidia/Nemotron-3.5-ASR-Streaming-Multilingual-0.6b) | $0.00020 | [View more](https://deepinfra.com/nvidia/Nemotron-3.5-ASR-Streaming-Multilingual-0.6b) |
+
+| Model | $ per minute of audio input | Actions |
+| --- | --- | --- |
+| [Nemotron-3-Diarization](https://deepinfra.com/nvidia/Nemotron-3-Diarization) | $0.00060 | [View more](https://deepinfra.com/nvidia/Nemotron-3-Diarization) |
+| [Nemotron-3.5-ASR-Streaming-Multilingual-0.6b](https://deepinfra.com/nvidia/Nemotron-3.5-ASR-Streaming-Multilingual-0.6b) | $0.00020 | [View more](https://deepinfra.com/nvidia/Nemotron-3.5-ASR-Streaming-Multilingual-0.6b) |
+
+* * *
+
+[Less than 10 billion parameters](https://deepinfra.com/pricing#less-than-10-billion-parameters)
+
+Our fastest and best value models but they might not be so precise.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemma-3-4b-it](https://deepinfra.com/google/gemma-3-4b-it) | 128k | $0.05 | $0.10 | [View more](https://deepinfra.com/google/gemma-3-4b-it) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemma-3-4b-it](https://deepinfra.com/google/gemma-3-4b-it) | 128k | $0.05 | $0.10 | [View more](https://deepinfra.com/google/gemma-3-4b-it) |
+
+* * *
+
+[Between 10 and 70 billion parameters](https://deepinfra.com/pricing#between-10-and-70-billion-parameters)
+
+Models that are fine-tuned for a balance between speed and precision.
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemma-3-27b-it](https://deepinfra.com/google/gemma-3-27b-it) | 128k | $0.08 | $0.16 | [View more](https://deepinfra.com/google/gemma-3-27b-it) |
+| [gemma-3-12b-it](https://deepinfra.com/google/gemma-3-12b-it) | 128k | $0.05 | $0.15 | [View more](https://deepinfra.com/google/gemma-3-12b-it) |
+
+| Model | Context | $ per 1M input tokens | $ per 1M output tokens | Actions |
+| --- | --- | --- | --- | --- |
+| [gemma-3-27b-it](https://deepinfra.com/google/gemma-3-27b-it) | 128k | $0.08 | $0.16 | [View more](https://deepinfra.com/google/gemma-3-27b-it) |
+| [gemma-3-12b-it](https://deepinfra.com/google/gemma-3-12b-it) | 128k | $0.05 | $0.15 | [View more](https://deepinfra.com/google/gemma-3-12b-it) |
+
+* * *
+
+[Flux](https://deepinfra.com/pricing#flux)
+
+Developed by Black Forest Labs, Flux is a family of state-of-the-art image generation and editing models that deliver exceptional visual quality with breakthrough prompt accuracy and photorealism.
+
+| Model | $ per image | Actions |
+| --- | --- | --- |
+| [FLUX-2-dev](https://deepinfra.com/black-forest-labs/FLUX-2-dev) | $0.01 x (w / 1024) x (h / 1024) x (iters / 28) | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-dev) |
+| [FLUX-2-klein-9b](https://deepinfra.com/black-forest-labs/FLUX-2-klein-9b) | $0.015 x (w / 1024) x (h / 1024) | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-klein-9b) |
+| [FLUX-2-klein-4b](https://deepinfra.com/black-forest-labs/FLUX-2-klein-4b) | $0.014 x (w / 1024) x (h / 1024) | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-klein-4b) |
+| [FLUX-2-max](https://deepinfra.com/black-forest-labs/FLUX-2-max) | $0.07 | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-max) |
+| [FLUX-2-pro](https://deepinfra.com/black-forest-labs/FLUX-2-pro) | $0.015 | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-pro) |
+| [FLUX-1-dev](https://deepinfra.com/black-forest-labs/FLUX-1-dev) | $0.009 x (w / 1024) x (h / 1024) x (iters / 25) | [View more](https://deepinfra.com/black-forest-labs/FLUX-1-dev) |
+| [FLUX-1-schnell](https://deepinfra.com/black-forest-labs/FLUX-1-schnell) | $0.0005 x (w / 1024) x (h / 1024) x iters | [View more](https://deepinfra.com/black-forest-labs/FLUX-1-schnell) |
+| [FLUX-1.1-pro](https://deepinfra.com/black-forest-labs/FLUX-1.1-pro) | $0.04 | [View more](https://deepinfra.com/black-forest-labs/FLUX-1.1-pro) |
+
+| Model | $ per image | Actions |
+| --- | --- | --- |
+| [FLUX-2-dev](https://deepinfra.com/black-forest-labs/FLUX-2-dev) | $0.01 x (w / 1024) x (h / 1024) x (iters / 28) | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-dev) |
+| [FLUX-2-klein-9b](https://deepinfra.com/black-forest-labs/FLUX-2-klein-9b) | $0.015 x (w / 1024) x (h / 1024) | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-klein-9b) |
+| [FLUX-2-klein-4b](https://deepinfra.com/black-forest-labs/FLUX-2-klein-4b) | $0.014 x (w / 1024) x (h / 1024) | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-klein-4b) |
+| [FLUX-2-max](https://deepinfra.com/black-forest-labs/FLUX-2-max) | $0.07 | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-max) |
+| [FLUX-2-pro](https://deepinfra.com/black-forest-labs/FLUX-2-pro) | $0.015 | [View more](https://deepinfra.com/black-forest-labs/FLUX-2-pro) |
+| [FLUX-1-dev](https://deepinfra.com/black-forest-labs/FLUX-1-dev) | $0.009 x (w / 1024) x (h / 1024) x (iters / 25) | [View more](https://deepinfra.com/black-forest-labs/FLUX-1-dev) |
+| [FLUX-1-schnell](https://deepinfra.com/black-forest-labs/FLUX-1-schnell) | $0.0005 x (w / 1024) x (h / 1024) x iters | [View more](https://deepinfra.com/black-forest-labs/FLUX-1-schnell) |
+| [FLUX-1.1-pro](https://deepinfra.com/black-forest-labs/FLUX-1.1-pro) | $0.04 | [View more](https://deepinfra.com/black-forest-labs/FLUX-1.1-pro) |
+
+* * *
+
+* * *
+
+* * *
+
+* * *
+
+#### [Service Tiers](https://deepinfra.com/pricing\#service-tiers)
+
+Choose how each inference request is scheduled. The standard tier is the default; the priority tier schedules your requests ahead of standard traffic for faster time-to-first-token during peak demand, at a higher per-token price.
+
+| Tier | Scheduling | Price |
+| --- | --- | --- |
+| Standard | Default scheduling, best-effort during peak demand | 1x base price |
+| Priority | Scheduled ahead of standard traffic for faster time-to-first-token | 1.5x base price |
+| Flex | Lower cost for non-production and asynchronous work, in exchange for slower responses and occasional unavailability | 0.8x base price |
+
+Enable per request by setting `service_tier: "priority"`. Availability varies by model — check the model page. [Read more](https://docs.deepinfra.com/chat/overview#service-tier).
+
+* * *
+
+#### [Custom LLMs](https://deepinfra.com/pricing\#custom-llms)
+
+You can deploy your own model on our hardware and pay for uptime. You get dedicated SXM-connected GPUs (for multi-GPU setups), automatic scaling to handle load fluctuations and a very competitive price. [Read More](https://docs.deepinfra.com/private-models/custom-llms)
+
+- Dedicated A100, H100, H200, B200 and B300 GPUs for your custom LLM needs
+
+- Billed in minute granularity
+
+- Invoiced weekly
+
+
+[Deploy](https://deepinfra.com/dash/deployments?new=custom-llm)
+
+| GPU | Memory | Price |
+| --- | --- | --- |
+| A100 | 80GB | **$1.49** / GPU-hour |
+| H100 | 80GB | **$2.90** / GPU-hour |
+| H200 | 141GB | **$3.49** / GPU-hour |
+| B200 | 180GB | **$4.89** / GPU-hour |
+| B300 | 270GB | **$5.89** / GPU-hour |
+
+* * *
+
+#### [Dedicated Instances and Clusters](https://deepinfra.com/pricing\#dedicated-instances-and-clusters)
+
+For dedicated instances, DGX H100, B200 and B300 clusters with 3.2Tbps bandwidth, please contact us at [dedicated@deepinfra.com](mailto:dedicated@deepinfra.com)
+
+* * *
+
+#### [Embeddings Pricing](https://deepinfra.com/pricing\#embeddings-pricing)
+
+| Model | Context | $ per 1M input tokens |
+| --- | --- | --- |
+| [bge-base-en-v1.5](https://deepinfra.com/BAAI/bge-base-en-v1.5) | 512 | $0.005 |
+| [bge-en-icl](https://deepinfra.com/BAAI/bge-en-icl) | 8k | $0.01 |
+| [bge-large-en-v1.5](https://deepinfra.com/BAAI/bge-large-en-v1.5) | 512 | $0.01 |
+| [bge-m3](https://deepinfra.com/BAAI/bge-m3) | 8k | $0.01 |
+| [bge-m3-multi](https://deepinfra.com/BAAI/bge-m3-multi) | 512 | $0.01 |
+| [gte-base](https://deepinfra.com/thenlper/gte-base) | 512 | $0.005 |
+| [gte-large](https://deepinfra.com/thenlper/gte-large) | 512 | $0.01 |
+| [e5-base-v2](https://deepinfra.com/intfloat/e5-base-v2) | 512 | $0.005 |
+| [e5-large-v2](https://deepinfra.com/intfloat/e5-large-v2) | 512 | $0.01 |
+| [multilingual-e5-large](https://deepinfra.com/intfloat/multilingual-e5-large) | 512 | $0.01 |
+| [multilingual-e5-large-instruct](https://deepinfra.com/intfloat/multilingual-e5-large-instruct) | 512 | $0.01 |
+| [all-MiniLM-L12-v2](https://deepinfra.com/sentence-transformers/all-MiniLM-L12-v2) | 512 | $0.005 |
+| [all-MiniLM-L6-v2](https://deepinfra.com/sentence-transformers/all-MiniLM-L6-v2) | 512 | $0.005 |
+| [all-mpnet-base-v2](https://deepinfra.com/sentence-transformers/all-mpnet-base-v2) | 512 | $0.005 |
+| [multi-qa-mpnet-base-dot-v1](https://deepinfra.com/sentence-transformers/multi-qa-mpnet-base-dot-v1) | 512 | $0.005 |
+| [paraphrase-MiniLM-L6-v2](https://deepinfra.com/sentence-transformers/paraphrase-MiniLM-L6-v2) | 512 | $0.005 |
+| [text2vec-base-chinese](https://deepinfra.com/shibing624/text2vec-base-chinese) | 512 | $0.005 |
+
+* * *
+
+![Hardware](https://deepinfra.com/_next/static/media/hardware_white.210235ad.svg)
+
+###### Hardware
+
+All models run on H100 or A100 GPUs, optimized for inference performance and low latency.
+
+![Auto scaling](https://deepinfra.com/_next/static/media/scaling_white.a131b8d9.svg)
+
+###### Auto Scaling
+
+Our system will automatically scale the model to more hardware based on your needs. We limit each account to 200 concurrent requests. If you want more drop us a line
+
+![Billing](https://deepinfra.com/_next/static/media/billing_white.8169928d.svg)
+
+###### Billing
+
+You have to add a card or pre-pay or you won't be able to use our services. Pre-paid accounts draw down their balance as they go, and invoiced accounts are billed once at the beginning of the following month. You can also set a spending limit to avoid surprises.
+
+![Footer Logo](https://deepinfra.com/_next/static/media/footer_logo.b3e9d8d3.svg)
+
+![SOC 2 Certified](https://static.sprinto.com/_next/static/images/framework/soc2.png)![ISO 27001 Certified](https://static.sprinto.com/_next/static/images/framework/iso-27001.png)
+
+Have questions or need a custom solution?
+
+[Contact Sales](https://deepinfra.com/contact-sales)
+
+Company
+
+[Pricing](https://deepinfra.com/pricing)
+
+[Docs](https://docs.deepinfra.com/)
+
+[Compare](https://deepinfra.com/compare)
+
+[DeepStart](https://deepinfra.com/deepstart)
+
+[About](https://deepinfra.com/about)
+
+[Careers](https://deepinfra.com/careers)
+
+[Contact us](https://deepinfra.com/contact-sales)
+
+[Media Center](https://deepinfra.com/media-center)
+
+[Trust Center](https://trust.deepinfra.com/)
+
+[Status](https://status.deepinfra.com/)
+
+[DeepGPT](https://deepgpt.com/)
+
+Latest Models
+
+[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B") [nvidia/Nemotron-3.5-Rerank-8B-BF16](https://deepinfra.com/nvidia/Nemotron-3.5-Rerank-8B-BF16 "nvidia/Nemotron-3.5-Rerank-8B-BF16") [Bria/fibo-2.0](https://deepinfra.com/Bria/fibo-2.0 "Bria/fibo-2.0") [nvidia/Nemotron-3.5-Embed-8B-BF16](https://deepinfra.com/nvidia/Nemotron-3.5-Embed-8B-BF16 "nvidia/Nemotron-3.5-Embed-8B-BF16") [nvidia/Nemotron-3.5-Embed-1B-BF16](https://deepinfra.com/nvidia/Nemotron-3.5-Embed-1B-BF16 "nvidia/Nemotron-3.5-Embed-1B-BF16")
+
+Featured Models
+
+[nvidia/NVIDIA-Nemotron-3.5-Super-VL](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3.5-Super-VL "nvidia/NVIDIA-Nemotron-3.5-Super-VL") [deepseek-ai/DeepSeek-V3.2](https://deepinfra.com/deepseek-ai/DeepSeek-V3.2 "deepseek-ai/DeepSeek-V3.2") [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B](https://deepinfra.com/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B") [Qwen/Qwen3.6-35B-A3B](https://deepinfra.com/Qwen/Qwen3.6-35B-A3B "Qwen/Qwen3.6-35B-A3B") [black-forest-labs/FLUX-2-klein-9b](https://deepinfra.com/black-forest-labs/FLUX-2-klein-9b "black-forest-labs/FLUX-2-klein-9b")
+
+![Built With Love in Palo Alto](https://deepinfra.com/_next/static/media/love.ce60156e.svg)
+
+[visit deepinfra on linkedin](https://linkedin.com/company/deep-infra)[visit deepinfra on X](https://x.com/DeepInfra)[visit deepinfra on github](https://github.com/DeepInfra)[visit deepinfra on discord](https://discord.gg/x88dCvhqYq)
+
+© 2026 DeepInfra. All rights reserved.
+
+[Privacy Policy](https://deepinfra.com/privacy) [Terms of Service](https://deepinfra.com/terms)

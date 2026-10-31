@@ -1,0 +1,31 @@
+{
+    "mcpServers": {
+        "llm_inference": {
+            "command": "uv",
+            "args": [
+                "run",
+                "starter_server.py"
+            ]
+        },
+        "sqlite": {
+            "command": "uvx",
+            "args": [
+                "--with",
+                "mcp==1.9.4",
+                "--with",
+                "pydantic<2.12",
+                "mcp-server-sqlite",
+                "--db-path",
+                "./test.db"
+            ]
+        },
+        "filesystem": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "."
+            ]
+        }
+    }
+}
