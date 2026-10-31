@@ -441,7 +441,7 @@ class ChatSession:
                 print(f"\nError: {str(e)}")
 
     async def show_stored_data(self) -> None:
-        """Read the five recent plans and print the rubric's pricing bullets."""
+        """Display five recent plans with column headers and separators."""
         if not self.sqlite_server:
             print('No database available')
             return
@@ -468,13 +468,21 @@ class ChatSession:
             print('\nRecently Stored Data:')
             print('=' * 50)
             print('\nPricing Plans:')
-            if not rows:
-                print('No pricing plans saved yet. Run a pricing comparison using the scraped content first.')
+            headers = ['Company', 'Plan', 'Input Tokens', 'Output Tokens']
+            display_rows = []
             for plan in rows:
                 input_price = f"${plan['input_tokens']}" if plan.get('input_tokens') is not None else 'not listed'
                 output_price = f"${plan['output_tokens']}" if plan.get('output_tokens') is not None else 'not listed'
-                print(f"  \u2022 {plan['company_name']}: {plan['plan_name']} - "
-                      f"Input Token {input_price}, Output Tokens {output_price}")
+                display_rows.append([str(plan['company_name']), str(plan['plan_name']), input_price, output_price])
+            widths = [max(len(row[i]) for row in [headers] + display_rows) for i in range(len(headers))]
+            print('    ' + ' | '.join(value.ljust(width) for value, width in zip(headers, widths)))
+            separator = '-' * (4 + sum(widths) + 3 * (len(headers) - 1))
+            print(separator)
+            if not display_rows:
+                print('No pricing plans saved yet. Run a pricing comparison using the scraped content first.')
+            for row in display_rows:
+                print('  \u2022 ' + ' | '.join(value.ljust(width) for value, width in zip(row, widths)))
+            print(separator)
             print('=' * 50)
         except Exception as exc:
             print(f'Error showing data: {exc}')

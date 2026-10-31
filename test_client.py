@@ -110,7 +110,15 @@ class GatewayTests(unittest.IsolatedAsyncioTestCase):
                 self.assertIn("Provider's AI", output.getvalue())
                 self.assertIn('Recently Stored Data:', output.getvalue())
                 self.assertIn('Pricing Plans:', output.getvalue())
-                self.assertIn("\u2022 Provider's AI: DeepSeek V3 - Input Token $0.25, Output Tokens not listed", output.getvalue())
+                header = next(line for line in output.getvalue().splitlines() if 'Input Tokens' in line)
+                self.assertEqual([cell.strip() for cell in header.split('|')],
+                                 ['Company', 'Plan', 'Input Tokens', 'Output Tokens'])
+                provider_row = next(line for line in output.getvalue().splitlines() if "\u2022 Provider's AI" in line)
+                self.assertEqual([cell.strip() for cell in provider_row.split('|')],
+                                 ["\u2022 Provider's AI", 'DeepSeek V3', '$0.25', 'not listed'])
+                separators = [line for line in output.getvalue().splitlines() if line and set(line) == {'-'}]
+                self.assertEqual(len(separators), 2)
+                self.assertEqual(separators[0], separators[1])
                 self.assertEqual(output.getvalue().count('=' * 50), 2)
                 self.assertNotIn('Error', output.getvalue())
             finally:

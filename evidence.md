@@ -60,9 +60,11 @@ After the comparison and extraction finish, enter:
 show data
 ```
 
-The screenshot shows `Query: show data`, execution of the SQLite `read_query` tool, and the rubric's required output format: `Recently Stored Data:`, an opening separator, `Pricing Plans:`, five pricing bullets, and a closing separator.
+The updated screenshot shows `Query: show data`, execution of the SQLite `read_query` tool, `Recently Stored Data:`, an opening separator, and `Pricing Plans:`.
 
-Each bullet includes the company, model or plan, input token price, and output token price. The records include DeepInfra's DeepSeek V3 input price of $0.32 and output price of $0.89. Results include records from earlier runs as well as the three plans saved during Test 2. Billing units are described in the comparison evidence; this display follows the rubric's original bullet format.
+The reviewer-requested column headers, `Company | Plan | Input Tokens | Output Tokens`, are visible above five aligned pricing rows. Dashed separators appear below the header and after the final row, followed by the closing outer separator. This screenshot was captured from the running application after the formatting fix.
+
+Each bullet includes the company, model or plan, input token price, and output token price. The records include DeepInfra's DeepSeek V3 input price of $0.32 and output price of $0.89. Results include records from earlier runs as well as the three plans saved during Test 2. Billing units are described in the comparison evidence.
 
 This confirms that pricing information persisted in SQLite and could be retrieved through the application.
 

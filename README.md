@@ -74,9 +74,11 @@ SELECT company_name, plan_name, input_tokens, output_tokens, currency
 FROM pricing_plans ORDER BY created_at DESC LIMIT 5
 ```
 
-It prints `Recently Stored Data:`, separator lines, `Pricing Plans:`, and a
-bullet for each company and plan with input and output token prices. The
-database screenshot in `evidence.md` shows this rubric-aligned bullet output.
+It prints `Recently Stored Data:`, `Pricing Plans:`, the explicit column headers
+`Company | Plan | Input Tokens | Output Tokens`, and aligned pricing bullets.
+Dashed separators appear below the header and after the final pricing row,
+with opening and closing outer separators. The updated database screenshot
+in `evidence.md` demonstrates the reviewer-requested column headers and separators.
 
 Run the regression checks with `uv run python -m unittest test_client -v`.
 See [evidence.md](evidence.md) for the screenshots. Include the `screenshots/`
