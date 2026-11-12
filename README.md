@@ -1,3 +1,5 @@
+[![M8ven Verified](https://m8ven.ai/badge/mcp/ahmedsaahmed/mcp_server_project?variant=verified)](https://m8ven.ai/mcp/ahmedsaahmed/mcp_server_project?s=readme)
+
 In this project, you are going to make a chatbot to scrape LLM Inference Serving websites to research costs of serving various LLMs. You will do this by writing an MCP Server that hooks up to Firecrawl's API and saving the data in a SQLite Database. You should use the following websites to scrape:
 
 - "cloudrift": "https://www.cloudrift.ai/inference"
@@ -83,5 +85,3 @@ in `evidence.md` demonstrates the reviewer-requested column headers and separato
 Run the regression checks with `uv run python -m unittest test_client -v`.
 See [evidence.md](evidence.md) for the screenshots. Include the `screenshots/`
 folder with a ZIP submission, and exclude `.env` and `.venv`.
-
-[![M8ven Verified](https://m8ven.ai/badge/mcp/ahmedsaahmed/mcp_server_project?variant=verified)](https://m8ven.ai/mcp/ahmedsaahmed/mcp_server_project?s=readme)
